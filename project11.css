@@ -1,0 +1,238 @@
+.sec1{
+  
+   background-color: rgb(240, 187, 122);
+   background-image: url(iphone.webp); 
+}
+
+.inbox1{
+    text-align: center;
+   padding: 150px 0px;
+   
+}
+
+.opacity{
+    background-color: rgba(255, 228, 196, 0.682);
+}
+
+
+.bi-file-bar-graph-fill{
+    color: rgb(232, 38, 16);
+    font-size: 50px;
+}
+
+
+.a{
+    font-size: 15px;
+}
+.bi-play{
+    font-size: 15px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.a5{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+.inbox2{
+    height: 100px;
+    
+}
+.a2{
+       font-size: 25px;
+}
+.a6{
+    font-size: 30px;
+    font-family:sans-serif;
+}
+    
+.a7{
+    font-size: 20px;
+}
+.a8{
+    font-size: 20px;
+}  
+.a9{
+    color: red;
+}
+.a12{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.inbox3{
+    margin-bottom: 20px;
+}
+.a13{
+    font-size:15px;
+}
+.a10{
+    color:red;
+
+}
+.inbox3{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.a11{
+    width: 100%;
+}
+.inbox5{
+    height: 200px;
+}
+
+.sec5{
+    margin-top:20%
+}
+.a14{
+    text-align: center;
+}
+.inbox7{
+    padding-bottom: 30px;
+    font-family: sans-serif;
+}
+.inbox8{
+    padding: 50px;
+    text-align: center;
+    border-right:1px solid lightgray;
+    
+    
+}
+
+.a16{
+    text-align: center;
+    
+}
+.a17{
+    font-size: 25px;
+}
+.a18{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.inbox9{
+      text-align: center;
+      border-right:1px solid lightgray;
+    
+}
+.line1{
+    background-color: gray;
+    width: 100px;
+    height: 1px;
+    margin: auto;
+}
+.a19{
+    font-size: 20px;
+}
+.a20{
+    font-size:25px;
+    text-align: center;
+}
+.line2{
+    background-color: gray;
+    width: 50px;
+    height: 1px;
+    margin: auto;
+}
+.a21{
+    font-size: 20px;
+    text-align: center;
+}
+.a22{
+    font-size: 20px;
+    text-align: center;
+}
+.a23{
+    color: red;
+}
+    
+.inbox10{
+    text-align: center;
+    
+}
+.sec7{
+    background-color: white;
+    height: 100px;
+}
+.a24{
+    text-align: center;
+    font-size: 15px;
+}
+.inbox11{
+    text-align: center;
+    margin-top: 30px;
+}
+.inbox12{
+    height: 200px;
+    text-align: center;
+    padding-top: 30px;
+}
+.inbox15{
+    height: 200px;
+    text-align: end;
+    padding-top: 30px;
+
+}
+.inbox16{
+    height: 200px;
+    text-align: start;
+    padding-top: 30px;
+}
+.sec8{
+    background-color:white;
+}
+.a25{
+    border-radius: 50%;
+    
+}
+.a26{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.inbox13{
+    height: 100px;
+    background-color:white;
+    text-align: center;
+    padding-top:50px;
+}
+
+.inbox14{
+    text-align: center;
+    background-color:white;
+    height: 100px;
+    
+}
+
+.a27{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10PX;
+    
+}
+.a28{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10PX;
+    
+}
+.a29{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10PX;
+    
+}
+.a30{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10PX;
+    
+}
+.A31{
+    font-size: 15px;
+}
